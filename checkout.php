@@ -75,7 +75,7 @@ if(isset($_POST['submit'])){
 
 <div class="heading">
    <h3>checkout</h3>
-   <p><a href="home.php">home</a> <span> / checkout</span></p>
+   <!-- <p><a href="home.php">home</a> <span> / checkout</span></p> -->
 </div>
 
 <section class="checkout">

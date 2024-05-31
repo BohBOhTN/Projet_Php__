@@ -61,7 +61,7 @@ $grand_total = 0;
 
 <div class="heading">
    <h3>shopping cart</h3>
-   <p><a href="home.php">home</a> <span> / cart</span></p>
+   <!-- <p><a href="home.php">home</a> <span> / cart</span></p> -->
 </div>
 
 <!-- shopping cart section starts  -->
