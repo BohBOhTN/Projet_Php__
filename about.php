@@ -52,7 +52,7 @@ if(isset($_SESSION['user_id'])){
 
       <div class="content">
          <h3>why choose us?</h3>
-         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, neque debitis incidunt qui ipsum sed doloremque a molestiae in veritatis ullam similique sunt aliquam dolores dolore? Quasi atque debitis nobis!</p>
+         <p>because we are the best in sfax</p>
          <a href="menu.php" class="btn">our menu</a>
       </div>
 
@@ -73,19 +73,19 @@ if(isset($_SESSION['user_id'])){
       <div class="box">
          <img src="images/step-1.png" alt="">
          <h3>choose order</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, dolorem.</p>
+         <p></p>
       </div>
 
       <div class="box">
          <img src="images/step-2.png" alt="">
          <h3>fast delivery</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, dolorem.</p>
+         <p></p>
       </div>
 
       <div class="box">
          <img src="images/step-3.png" alt="">
          <h3>enjoy food</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, dolorem.</p>
+         <p></p>
       </div>
 
    </div>
@@ -106,7 +106,7 @@ if(isset($_SESSION['user_id'])){
 
          <div class="swiper-slide slide">
             <img src="images/pic-1.png" alt="">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos voluptate eligendi laborum molestias ut earum nulla sint voluptatum labore nemo.</p>
+            <p>a9wa burger fik ya tounes</p>
             <div class="stars">
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
@@ -119,7 +119,7 @@ if(isset($_SESSION['user_id'])){
 
          <div class="swiper-slide slide">
             <img src="images/pic-2.png" alt="">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos voluptate eligendi laborum molestias ut earum nulla sint voluptatum labore nemo.</p>
+            <p>pizza bninaa</p>
             <div class="stars">
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
@@ -132,7 +132,7 @@ if(isset($_SESSION['user_id'])){
 
          <div class="swiper-slide slide">
             <img src="images/pic-3.png" alt="">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos voluptate eligendi laborum molestias ut earum nulla sint voluptatum labore nemo.</p>
+            <p>wji3a</p>
             <div class="stars">
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
