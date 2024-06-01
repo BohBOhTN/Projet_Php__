@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600&display=swap');
 
 :root{
-   --yellow:#fed330;
+   --yellow:#045aa1;
    --red:#e74c3c;
    --white:#fff;
-   --black:#222;
+   --black:#045aa1;
    --light-color:#777;
    --border:.2rem solid var(--black);
 }
@@ -101,7 +101,7 @@ section{
 
 .btn{
    background-color: var(--yellow);
-   color:var(--black);
+   color: #fff;
 }
 
 .delete-btn{
@@ -566,11 +566,11 @@ section{
 }
 
 .steps .box-container .box:hover img {
-   filter: invert();
+   filter: invert(0);
 }
 
 .steps .box-container .box:hover h3 {
-   color: var(--white);
+   color: var(--black);
 }
 
 .steps .box-container .box p{
@@ -901,7 +901,7 @@ section{
 
 .quick-view form .flex .price span{
    font-size: 2rem;
-   color:var(--light-color);
+   color:var(--black);
 }
 
 .quick-view form .flex .qty{
@@ -991,7 +991,7 @@ section{
 }
 
 .credit span{
-   color:var(--yellow);
+   color:#fff;
 }
 
 .loader{
