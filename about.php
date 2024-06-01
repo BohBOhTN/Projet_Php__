@@ -119,7 +119,7 @@ if(isset($_SESSION['user_id'])){
 
          <div class="swiper-slide slide">
             <img src="images/pic-2.png" alt="">
-            <p>its feels like the hometown food ! benna</p>
+            <p>its feels like the hometown food ! bennaa</p>
             <div class="stars">
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
