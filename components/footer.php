@@ -5,8 +5,7 @@
       <div class="box">
          <img src="images/email-icon.png" alt="">
          <h3>our email</h3>
-         <a href="mailto:shaikhanas@gmail.com">shaikhanas@gmail.com</a>
-         <a href="mailto:anasbhai@gmail.com">anasbhai@gmail.com</a>
+         <a href="mailto:restosidibou@gmail.com">restosidibou@gmail.com</a>
       </div>
 
       <div class="box">
@@ -18,19 +17,18 @@
       <div class="box">
          <img src="images/map-icon.png" alt="">
          <h3>our address</h3>
-         <a href="#">mumbai, india - 400104</a>
+         <a href="#">819 Valencia St, San Francisco, California, USA</a>
       </div>
 
       <div class="box">
          <img src="images/phone-icon.png" alt="">
          <h3>our number</h3>
          <a href="tel:1234567890">123-456-7890</a>
-         <a href="tel:1112223333">111-222-3333</a>
       </div>
 
    </section>
 
-   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>mr. web designer</span> | all rights reserved!</div>
+   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>BAHA & FIRAS</span> | all rights reserved!</div>
 
 </footer>
 
