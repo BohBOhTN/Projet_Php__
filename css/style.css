@@ -135,7 +135,7 @@ section{
 
 .message span{
    font-size: 2rem;
-   color:var(--black);
+   color:#fff;
 }
 
 .message i{
@@ -421,7 +421,7 @@ section{
 }
 
 .products .box-container .box .flex .price span{
-   color:var(--light-color);
+   color:var(--black);
    font-size: 1.8rem;
 }
 
